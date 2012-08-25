@@ -81,7 +81,7 @@
       <Project>{47B205F6-5FDC-44B6-897D-4DE19422FC73}</Project>
       <Name>MonoTouch.NinePatch</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MonoTouch.Dialog\MonoTouch.Dialog.csproj">
+    <ProjectReference Include="..\..\MonoTouch.Dialog\MonoTouch.Dialog\MonoTouch.Dialog.csproj">
       <Project>{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}</Project>
       <Name>MonoTouch.Dialog</Name>
     </ProjectReference>
